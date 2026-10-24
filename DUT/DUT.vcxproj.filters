@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DUT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SinhVien.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Diem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Khoa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MonHoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuanLySinhVien.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DBHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuanLyKhoa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuanLyLop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuanLyMonHoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuanLyDiem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DBKhoa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DBLop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DBMonHoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DBDiem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DBSinhVien.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SinhVien.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Diem.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lop.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Khoa.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MonHoc.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuanLySinhVien.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DBHelper.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuanLyKhoa.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuanLyLop.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuanLyMonHoc.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuanLyDiem.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DBKhoa.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DBLop.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DBMonHoc.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DBDiem.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DBSinhVien.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
